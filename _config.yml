@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+title                    : ""
+title_separator          : ""
+name                     : &name "Mariona Segú"
+description              : &description "I am an Assistant Professor at THEMA and CY Cergy Paris Université since September 2021. I am an IEB Research Affiliate."
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://marionasegu.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "marionasegu/Personal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Mariona Segú"
+  bio              : "Assistant Professor"
+  location         : "Paris"
+  employer         : "THEMA, CY Cergy Paris Université"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mariona.segu@ecyu.fr" 
 
   # Academic websites
   academia         : # URL
